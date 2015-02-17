@@ -9,4 +9,3 @@ Setup
 2. add the following entry to crontab */10 * * * * /home/pi/tempmon.sh >> /home/pi/tempmon.log*
 3. restart the Raspberry Pi
 
-bash script to monitor raspberry pi temperature and cpu load
