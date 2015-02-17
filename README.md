@@ -1,4 +1,4 @@
-# raspberry-pi tempmon
+# raspberry-pi-tempmon
 ======================
 A simple bash script to output the cpu temprature and load.
 
